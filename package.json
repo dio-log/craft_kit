@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "geo_craft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babylonjs": "^6.1.0",
+    "chart.js": "^4.3.0"
+  }
+}
